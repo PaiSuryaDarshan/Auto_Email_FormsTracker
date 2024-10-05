@@ -38,6 +38,4 @@ As discussed the meeting is gonna happen at {time}, {date} at {venue}.
 <b>Agenda : {agenda} </b>
 <br><br>
 {tod}
-
-
 """
