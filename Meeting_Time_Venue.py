@@ -21,7 +21,7 @@ tod = """
 """
 
 # Content
-subject = "[1 min read] Meeting information"
+subject = "[1 MIN READ] Meeting information"
 body = f"""
 <html>
 <body>
