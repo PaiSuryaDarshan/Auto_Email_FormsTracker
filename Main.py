@@ -1,14 +1,26 @@
 from email.message import EmailMessage
-import Pre_requisites as Pr
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 import ssl
 import smtplib
 
-em = EmailMessage()
+# Any Integer
+Selector = 2
+if Selector == 0:
+    import TEST_Pre_requisites as Pr
+elif Selector == 1:
+    import Weekly_Forms as Pr
+elif Selector == 2:
+    import Meeting_Time_Venue as Pr
 
+
+
+em = MIMEMultipart()
 em['From']      = Pr.email_sender
-em['To']        = Pr.email_receiver
+em['To']        = ", ".join(Pr.email_receiver)
 em['Subject']   = Pr.subject
-em.set_content(Pr.body)
+
+em.attach(MIMEText(Pr.body, 'html'))
 
 context = ssl.create_default_context()
 
