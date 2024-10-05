@@ -3,8 +3,7 @@
 # Standard Values
 email_sender   = "chemistryscgroup22@gmail.com"
 email_password = "xzep lgdr ovky wnjd"
-# email_receiver = ["Suryadarshan82@gmail.com", "k22012568@kcl.ac.uk"]
-email_receiver = ["Suryadarshan82@gmail.com", "k22012568@kcl.ac.uk"]
+email_receiver = ["Suryadarshan82@gmail.com", "k22012568@kcl.ac.uk", "Ridwaan03kkj@gmail.com"]
 
 # Variable Values
 venue = "GS.13"
