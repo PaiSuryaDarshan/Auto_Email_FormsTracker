@@ -38,4 +38,7 @@ As discussed the meeting is gonna happen at {time}, {date} at {venue}.
 <b>Agenda : {agenda} </b>
 <br><br>
 {tod}
+<br><br>
+Hope I haven't forgotten anything (>_<). See you soon. <br>
+Have a lovely Day!
 """
