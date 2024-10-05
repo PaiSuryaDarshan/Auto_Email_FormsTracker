@@ -32,7 +32,7 @@ body = f"""
 <br><br>
 Hello everyone, 
 <br><br>
-    Hope you have all had a refreshing weekend (hopefully). This is an automated email just to inform you regarding the meeting taking place. 
+    Hope you have all had a refreshing and a not too stressful weekend/week (hopefully). This is an automated email just to inform you regarding the meeting taking place. 
 As discussed the meeting is gonna happen at {time}, {date} at {venue}.
 <br><br>
 <b>Agenda : {agenda} </b>
