@@ -5,11 +5,11 @@ import ssl
 import smtplib
 
 # Any Integer
-Selector = 2
+Selector = 1
 if Selector == 0:
     import TEST_Pre_requisites as Pr
 elif Selector == 1:
-    import Weekly_Forms as Pr
+    import Mon_Forms as Pr
 elif Selector == 2:
     import Meeting_Time_Venue as Pr
 
