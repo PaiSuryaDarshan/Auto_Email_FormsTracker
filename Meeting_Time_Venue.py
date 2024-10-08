@@ -47,4 +47,5 @@ As discussed the meeting is gonna happen on {time}, {date} at {venue}.
 <br><br>
 Hope I haven't forgotten anything (>_<). See you soon. <br>
 Have a lovely Day!
+Pai (bot)
 """
