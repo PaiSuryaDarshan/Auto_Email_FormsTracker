@@ -7,8 +7,8 @@ email_receiver_SCGrp = ["n.pai@kcl.ac.uk", "caitlin.skinner@kcl.ac.uk", "mohamme
 email_receiver_Test = []
 
 # Variable Values
-venue = "GS.13"
-date = "7th October"
+venue = "GS.4"
+date = "14th October"
 time  = "1 PM (13:00)"
 grp_name = "SC Chemistry"
 agenda = "We will be discussing the overall plan and provide structure to how we want to organize our work"
