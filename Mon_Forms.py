@@ -19,9 +19,9 @@ Hello team,
 I hope this message finds you well.  
 <br>
 I understand that it is Monday, and many of you may have pressing commitments. However, when time allows, I kindly request that you take a moment to complete the form linked above.
-<br><br>
+<br><br> 
 [P.S. This is an automated email so... please don't reply to it.]
-
-Have a great day!,
+<br><br>
+Have a great day!, <br>
 Pai (bot)
 """

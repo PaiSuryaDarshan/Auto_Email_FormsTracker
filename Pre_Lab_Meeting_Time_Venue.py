@@ -8,18 +8,20 @@ email_receiver_Test = []
 
 # Variable Values
 venue = "GS.4"
-date = "11th October"
-time  = "3 PM (15:00)"
+date = "14th October"
+time  = "1 PM (13:00)"
 grp_name = "SC Chemistry"
-agenda = "We will be discussing the synthesis plan and make sure what we need to clarify regarding the gelation process"
+agenda = "Roles and strategy"
 tod = """
 <b> Points to cover </b><br>
-<br><br>1. What we understand so far?
-<br> Understanding the synthesis thoroughly.
-<br><br>2. Go through the risk assessment together perfectly. 
-<br> Understand that everyone knows not only the risks, but also what is to be cautious of and why we chose the quantities and reagents we chose.
-<br><br>3. Go through Dan's advice. 
-<br> Make sure to highlight what part of what dan said we didn't understand so that we can ask him accordingly.
+<br><br>1. Understanding experimental procedures (Thoroughly)
+<br> Why and *HOW* we use the apparatus we use? (Like Dean-stark), Purpose and order of washing procedure, precaution to limit unwanted reactions/problems (like dropwise addition etc.)
+<br><br>2. What different tasks do we have?
+<br> Synthesis Note taking, NMR AND IR checking for reagents and product, Printing the risk assessments, weighing and measuring reactants, setting up equipment, Make details on required/relevant chemical properties of reagents used (boiling points for understanding volatility etc.) (What else?)
+<br><br>3. Decide how to delegate these tasks and other specific ones.
+<br> Assign ourselves roles, 'x' min shifts when monitoring a reaction
+<br><br>4. Briefly run through the risk assessment. 
+<br> Understand that everyone knows what the risks are (Also to tell us what is bench-top safe and what is fumehood).
 <br><br>
 Additionally, let's also decide a time, date and place for the succeeding meeting.
 <br><br>
@@ -35,7 +37,7 @@ body = f"""
 <h3>Meeting details</h3>
 <b>Venue: {venue} </b> <br>
 <b>Time : {time} </b> <br>
-<b>Group Name (used for booking) : {grp_name} </b> 
+<b>Group Name (used for booking) : {grp_name}</b> 
 <br><br>
 Hello everyone, 
 <br><br>
