@@ -15,7 +15,7 @@ agenda = "Roles and strategy"
 tod = """
 <b> Points to cover </b><br>
 <br><br>1. Understanding experimental procedures (Thoroughly)
-<br> Why and *HOW* we use the apparatus we use? (Like Dean-stark), Purpose and order of washing procedure, precaution to limit unwanted reactions/problems (like dropwise addition etc.)
+<br> Why and <b>*HOW*</b> we use the apparatus we use? (Like Dean-stark), Purpose and order of washing procedure, precaution to limit unwanted reactions/problems (like dropwise addition etc.)
 <br><br>2. What different tasks do we have?
 <br> Synthesis Note taking, NMR AND IR checking for reagents and product, Printing the risk assessments, weighing and measuring reactants, setting up equipment, Make details on required/relevant chemical properties of reagents used (boiling points for understanding volatility etc.) (What else?)
 <br><br>3. Decide how to delegate these tasks and other specific ones.
