@@ -11,15 +11,15 @@ venue = "GS.4"
 date = "14th October"
 time  = "1 PM (13:00)"
 grp_name = "SC Chemistry"
-agenda = "Roles and strategy"
+agenda = "Assigning Roles and Discussing Strategy"
 tod = """
-<b> Points to cover </b><br>
+<b> Points to cover </b>
 <br><br>1. Understanding experimental procedures (Thoroughly)
 <br> Why and <b>*HOW*</b> we use the apparatus we use? (Like Dean-stark), Purpose and order of washing procedure, precaution to limit unwanted reactions/problems (like dropwise addition etc.)
 <br><br>2. What different tasks do we have?
-<br> Synthesis Note taking, NMR AND IR checking for reagents and product, Printing the risk assessments, weighing and measuring reactants, setting up equipment, Make details on required/relevant chemical properties of reagents used (boiling points for understanding volatility etc.) (What else?)
+<br> Synthesis Note taking, NMR AND IR checking for reagents and product (Informs about purity of everything used), Printing the risk assessments, weighing and measuring reactants, setting up equipment, Make details on required/relevant chemical properties of reagents used (boiling points for understanding volatility etc.) (What else?)
 <br><br>3. Decide how to delegate these tasks and other specific ones.
-<br> Assign ourselves roles, 'x' min shifts when monitoring a reaction
+<br> Assign ourselves roles, '10 min' or '20 min' shifts when monitoring a reaction etc. etc.
 <br><br>4. Briefly run through the risk assessment. 
 <br> Understand that everyone knows what the risks are (Also to tell us what is bench-top safe and what is fumehood).
 <br><br>
@@ -43,7 +43,7 @@ Hello everyone,
 <br><br>
     Hope you have all had a refreshing and a not too stressful weekend/week (hopefully). This is an automated email just to inform you regarding the meeting taking place. 
 <br><br> 
-As discussed the meeting is gonna happen on {time}, {date} at {venue}.
+As discussed the meeting is gonna happen on {date}, {time} at {venue}.
 <br><br>
 <b>Agenda : {agenda} </b>
 <br><br>

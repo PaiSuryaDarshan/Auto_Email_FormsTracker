@@ -6,7 +6,7 @@ email_password = "xzep lgdr ovky wnjd"
 email_receiver = ["Suryadarshan82@gmail.com", "k22012568@kcl.ac.uk"]
 email_receiver_SCGrp = ["n.pai@kcl.ac.uk", "caitlin.skinner@kcl.ac.uk", "mohammed.hai@kcl.ac.uk", "jenifer.amenia@kcl.ac.uk"]
 
-form = "https://forms.gle/xmtrS3bdedGD9m6r5"
+form = "https://forms.gle/FqCNZsGNuE1UBE4JA"
 
 # Variable Values       
 subject = "[1 MIN SURVEY] Weekly Goal"

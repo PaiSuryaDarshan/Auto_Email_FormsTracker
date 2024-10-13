@@ -13,7 +13,7 @@ time  = "3 PM (15:00)"
 grp_name = "SC Chemistry"
 agenda = "We will be discussing the synthesis plan and make sure what we need to clarify regarding the gelation process"
 tod = """
-<b> Points to cover </b><br>
+<b> Points to cover </b>
 <br><br>1. What we understand so far?
 <br> Understanding the synthesis thoroughly.
 <br><br>2. Go through the risk assessment together perfectly. 
@@ -41,7 +41,7 @@ Hello everyone,
 <br><br>
     Hope you have all had a refreshing and a not too stressful weekend/week (hopefully). This is an automated email just to inform you regarding the meeting taking place. 
 <br><br> 
-As discussed the meeting is gonna happen on {time}, {date} at {venue}.
+As discussed the meeting is gonna happen on {date}, {time} at {venue}.
 <br><br>
 <b>Agenda : {agenda} </b>
 <br><br>
