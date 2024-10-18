@@ -5,7 +5,7 @@ import ssl
 import smtplib
 
 # Any Integer
-Selector = 1
+Selector = 2
 if Selector == 0:
     import TEST_Pre_requisites as Pr
 elif Selector == 1:

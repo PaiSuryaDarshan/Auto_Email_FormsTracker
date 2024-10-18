@@ -7,18 +7,18 @@ email_receiver_SCGrp = ["n.pai@kcl.ac.uk", "caitlin.skinner@kcl.ac.uk", "mohamme
 email_receiver_Test = []
 
 # Variable Values
-venue = "GS.4"
-date = "11th October"
-time  = "3 PM (15:00)"
+venue = "Online (For everyone except Mohammed)"
+date = "19th October"
+time  = "2 PM (14:00)"
 grp_name = "SC Chemistry"
-agenda = "We will be discussing the synthesis plan and make sure what we need to clarify regarding the gelation process"
+agenda = "We will be discussing the synthesis/gelation plan and make sure what we need to clarify regarding the Analysis process"
 tod = """
 <b> Points to cover </b>
 <br><br>1. What we understand so far?
-<br> Understanding the synthesis thoroughly.
+<br> Understanding the synthesis and gelation thoroughly.
 <br><br>2. Go through the risk assessment together perfectly. 
 <br> Understand that everyone knows not only the risks, but also what is to be cautious of and why we chose the quantities and reagents we chose.
-<br><br>3. Go through Dan's advice. 
+<br><br>3. Go through Dan's advice regarding spectroscopic analysis. 
 <br> Make sure to highlight what part of what dan said we didn't understand so that we can ask him accordingly.
 <br><br>
 Additionally, let's also decide a time, date and place for the succeeding meeting.
