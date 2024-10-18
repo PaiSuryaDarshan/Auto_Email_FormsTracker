@@ -34,6 +34,7 @@ body = f"""
 <body>
 <h3>Meeting details</h3>
 <b>Venue: {venue} </b> <br>
+<b>Date : {date} </b> <br>
 <b>Time : {time} </b> <br>
 <b>Group Name (used for booking) : {grp_name} </b> 
 <br><br>
